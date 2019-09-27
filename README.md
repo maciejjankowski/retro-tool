@@ -1,3 +1,4 @@
+This is one of [Pet projects](https://github.com/maciejjankowski/learn-to-code/wiki/Pet-projects)
 # retro-tool
 Improve your agile process. Start doing more useful work, keep healthy habits, work smarter and happier!
 
